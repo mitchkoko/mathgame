@@ -1,16 +1,5 @@
-# mathgametutorial
+# Math Game made with FLUTTER 💻
 
-A new Flutter project.
+Check out the tutorial here https://youtu.be/2FmDfpI7jPM
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![E208792F-6386-4C49-AC84-932E723DC62A](https://user-images.githubusercontent.com/29016489/180651457-a403dad1-5aec-4ae4-96a5-632cd13e13f7.JPG)
